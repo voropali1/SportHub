@@ -81,4 +81,5 @@ Password: adm1n
       Use the admin credentials provided above to log in.
 
 # 📌 Screenshots
+Po spuštění aplikace se automaticky vytvoří administrátor. 
 [1]
