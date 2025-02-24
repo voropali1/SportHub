@@ -1,9 +1,4 @@
 # 🏆 SportHub
-
-
-
-# 📌 Project Overview
-
 SportHub is a specialized application for managing sports clubs, including their training sessions and competitions. The application is designed to simplify the organization and management of sports club activities, such as tracking membership, recording payments, and managing participation in competitions.
 
 # 📌 Features (below are the screenshots)
