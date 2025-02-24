@@ -54,6 +54,47 @@ The project is implemented in Java using Maven, Spring Boot, and Spring Security
 
 🏦 Database Connection: The application requires a configured database (credentials are set in application.yaml).
 
+# 📌 Screenshots
+1. After starting the application, an administrator is automatically created.  
+
+   <img src="images/56.png" width="350">  
+
+2. The administrator appears in the table.  
+
+   <img src="images/58.png">  
+
+3. We verify that the admin is indeed present using the "Get All Users" request, and there they are.  
+
+   <img src="images/63.png" width="350">  
+
+4. Next, we need to register to be able to make further changes (remove/add/update user).  
+
+   <img src="images/64.png" width="350">  
+
+5. We made changes to our admin, and after using "Get All Users," we can see that the changes were applied.  
+
+   <img src="images/65.png" width="350">  
+   <img src="images/66.png" width="350">  
+
+6. Now, we want to add more members.  
+
+   <img src="images/67.png" width="350">  
+
+7. We verify, and the member has been added.  
+
+   <img src="images/68.png" width="350">  
+   <img src="images/69.png">  
+
+8. Now, we want to delete a member (member with ID number 2).  
+
+   <img src="images/70.png" width="350">  
+
+9. We check again, and the member is no longer there.  
+
+   <img src="images/71.png" width="350">  
+   <img src="images/72.png">  
+
+
 ### 🔑 Default Admin Account:
 
 Username: 1111
@@ -79,7 +120,3 @@ Password: adm1n
   5. Access the application
 
       Use the admin credentials provided above to log in.
-
-# 📌 Screenshots
-Po spuštění aplikace se automaticky vytvoří administrátor. 
-[1]
