@@ -94,6 +94,8 @@ The project is implemented in Java using Maven, Spring Boot, and Spring Security
    <img src="images/71.png" width="350">  
    <img src="images/72.png">  
 
+# UML CLass Diagram
+   <img src="images/54.png" width="700">  
 
 ### 🔑 Default Admin Account:
 
